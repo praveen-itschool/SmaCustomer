@@ -1,0 +1,5 @@
+package com.nareshit.raghu.entity;
+
+public interface ICompanyService {
+
+}

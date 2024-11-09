@@ -1,0 +1,8 @@
+# server.port
+server.port=9920
+
+# serviceId
+spring.application.name=CUSTOMER-SERVICE
+
+#Config server lcoation
+spring.config.import=optional:configserver:http://localhost:8888

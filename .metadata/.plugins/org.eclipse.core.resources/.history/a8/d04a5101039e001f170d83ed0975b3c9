@@ -1,0 +1,5 @@
+package com.nareshit.raghu.rest;
+
+public class CompanyRestController {
+
+}

@@ -1,0 +1,5 @@
+package com.nareshit.raghu.exception;
+
+public class CompanyNotFoundException extends Exception {
+
+}

@@ -1,0 +1,5 @@
+package com.nareshit.raghu.handler;
+
+public class CustomExceptionHandler {
+
+}

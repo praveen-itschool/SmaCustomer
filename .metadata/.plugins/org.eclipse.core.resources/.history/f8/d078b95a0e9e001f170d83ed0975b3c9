@@ -1,0 +1,5 @@
+package com.nareshit.raghu.payload.response;
+
+public class ErrorMessage {
+
+}
