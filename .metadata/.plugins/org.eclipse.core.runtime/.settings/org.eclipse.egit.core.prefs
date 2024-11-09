@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=D\:\\Raghu_Sir_JRTP-2\\JRTP-3\\SmaCompanyService-1\\.git;
-GitRepositoriesView.GitDirectories.relative=SmaCompanyService-1\\.git;
+GitRepositoriesView.GitDirectories=D\:\\Raghu_Sir_JRTP-2\\JRTP-3\\.git;D\:\\Raghu_Sir_JRTP-2\\JRTP-3\\SmaCompanyService-1\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;SmaCompanyService-1\\.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
